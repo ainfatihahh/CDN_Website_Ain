@@ -49,22 +49,22 @@ Inside the appsetting.json, we need to specify the connection strings in order t
 ## Sample Output
 - It was run in the local host. (http://localhost:3000)
 - 
-![image](https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/9cd030cd-8edf-4f35-acd2-d5443fd6a3c9)
+![image](https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/9cd030cd-8edf-4f35-acd2-d5443fd6a3c9.jpg)
 
 - Main Page.
 Once we click on the localhost server, we will redirect to this home page. We have 3 buttons which includes home, about and freelancer.
 
-![image](https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/a92b5c2d-c2b8-41c8-a89d-c7fc507debbf)
+![image](https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/a92b5c2d-c2b8-41c8-a89d-c7fc507debbf.jpg)
 
 - About Page
-![image](https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/c2ca3e50-0276-406e-a49a-4b66dff28911)
+![image](https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/c2ca3e50-0276-406e-a49a-4b66dff28911.jpg)
 
 - Freelancer Page
 
-  ![image](https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/3b847a1d-1563-483a-af6e-d7b7e3644814)
+  ![image](https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/3b847a1d-1563-483a-af6e-d7b7e3644814.jpg)
   
 - Database
-![image](https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/051e9e4f-b6af-491e-90d4-19e32efe0d30)
+![image](https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/051e9e4f-b6af-491e-90d4-19e32efe0d30.jpg)
 
 ## Demonstration
 
