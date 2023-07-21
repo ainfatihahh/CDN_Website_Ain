@@ -76,4 +76,3 @@ Once we click on the localhost server, we will redirect to this home page. We ha
 
 ## Demonstration
 
-https://github.com/ainfatihahh/CDN_Website_Ain/issues/1#issue-1814998020
