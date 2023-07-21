@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_Etiqa", "WebApplication_Etiqa\WebApplication_Etiqa.csproj", "{8B1E48EF-55A8-46DD-B057-66A27B23C1D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B1E48EF-55A8-46DD-B057-66A27B23C1D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1E48EF-55A8-46DD-B057-66A27B23C1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1E48EF-55A8-46DD-B057-66A27B23C1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1E48EF-55A8-46DD-B057-66A27B23C1D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA2273F6-3836-46F6-8708-A4EEDAF68498}
+	EndGlobalSection
+EndGlobal
