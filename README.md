@@ -25,7 +25,7 @@ Simple setup of a website and skeleton for ASP.NET Core Web API with ReactJS UI.
 #### 1. Run 'IIS Express'. (Backend)
 In order to run the system, hit the 'IIS Express' button in Microsoft Visual Studio 2022.
 
-![image](https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/8a4e5c07-0ce5-49f1-9fab-62cdf5a792fa)
+![Screenshot 2023-07-20 203600](https://github.com/ainfatihahh/CDN_Website_Ain/assets/121369021/f4a093d7-c466-48d8-be26-5d19a7e298dd)
 
 #### 2. Run User Interface. (Frontend)
 1. Open Terminal in the Visual Studio Code.
