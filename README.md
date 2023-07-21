@@ -56,7 +56,7 @@ Inside the appsetting.json, we need to specify the connection strings in order t
 - Main Page.
 Once we click on the localhost server, we will redirect to this home page. We have 3 buttons which includes home, about and freelancer.
 
-![Screenshot 2023-07-20 205400](https://github.com/ainfatihahh/CDN_Website_Ain/assets/121369021/f8818a6b-24f2-4c97-b120-5706be48d1b1)
+![main](https://github.com/ainfatihahh/CDN_Website_Ain/assets/121369021/285ec129-f507-4614-b43d-badf578aa1e8)
 
 
 - About Page
