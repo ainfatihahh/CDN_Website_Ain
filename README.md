@@ -68,4 +68,4 @@ Once we click on the localhost server, we will redirect to this home page. We ha
 
 ## Demonstration
 
-https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/094abf81-4058-4d50-96a9-585aaa9407b9
+https://github.com/ainfatihahh/CDN_Website_Ain/issues/1#issue-1814998020
