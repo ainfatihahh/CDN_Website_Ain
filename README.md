@@ -33,38 +33,46 @@ In order to run the system, hit the 'IIS Express' button in Microsoft Visual Stu
 3. Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-![image](https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/3e2daa8c-3c12-4ed5-9547-c966e8df0b3c)
+![Screenshot 2023-07-20 204147](https://github.com/ainfatihahh/CDN_Website_Ain/assets/121369021/6129eb9e-e7d0-4bd3-baac-7eda7989625b)
+
 
 #### 3. Local Host 
 Click the link to redirect to the website.
 
-![image](https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/094b556a-475c-4838-a01b-09dc8b5538a7)
+![Screenshot 2023-07-20 204233](https://github.com/ainfatihahh/CDN_Website_Ain/assets/121369021/b6129418-0ee3-471a-81df-33afd5efd489)
 
 #### *Important Notes*
 Inside the appsetting.json, we need to specify the connection strings in order to connect with database.
-![image](https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/1e527e09-42ab-490b-bc0a-ab82c15a450f)
 
+![Screenshot 2023-07-20 204627](https://github.com/ainfatihahh/CDN_Website_Ain/assets/121369021/6711741a-ef27-4e06-b727-a4a5c6747dfe)
 
    
 ## Sample Output
 - It was run in the local host. (http://localhost:3000)
-- 
-![image](https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/9cd030cd-8edf-4f35-acd2-d5443fd6a3c9.jpg)
+
+![Screenshot 2023-07-20 205600](https://github.com/ainfatihahh/CDN_Website_Ain/assets/121369021/6ce00eb1-aa4d-413a-be30-35f615eadd7b)
+
 
 - Main Page.
 Once we click on the localhost server, we will redirect to this home page. We have 3 buttons which includes home, about and freelancer.
 
-![image](https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/a92b5c2d-c2b8-41c8-a89d-c7fc507debbf.jpg)
+![Screenshot 2023-07-20 205400](https://github.com/ainfatihahh/CDN_Website_Ain/assets/121369021/f8818a6b-24f2-4c97-b120-5706be48d1b1)
+
 
 - About Page
-![image](https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/c2ca3e50-0276-406e-a49a-4b66dff28911.jpg)
+
+![abt](https://github.com/ainfatihahh/CDN_Website_Ain/assets/121369021/8e847cad-f431-4f39-883d-437064f94eb2)
+
 
 - Freelancer Page
+  
+![fl](https://github.com/ainfatihahh/CDN_Website_Ain/assets/121369021/76afbb88-a71a-48f7-b1de-66b445a76d13)
 
-  ![image](https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/3b847a1d-1563-483a-af6e-d7b7e3644814.jpg)
   
 - Database
-![image](https://github.com/ainfatihahh/CDN_By_Ain/assets/121369021/051e9e4f-b6af-491e-90d4-19e32efe0d30.jpg)
+
+![Screenshot 2023-07-20 220316](https://github.com/ainfatihahh/CDN_Website_Ain/assets/121369021/244deca5-cd32-499c-81c9-c47785fbdd48)
+
 
 ## Demonstration
 
